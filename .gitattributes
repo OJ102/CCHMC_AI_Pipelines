@@ -1,0 +1,2 @@
+Pipeline2/mutation-GA-cavity-only/data/merged_blind_protein_prott5.csv filter=lfs diff=lfs merge=lfs -text
+Pipeline1-Fasta-preds/pt5_embedding/data/blind_residue_prott5.csv filter=lfs diff=lfs merge=lfs -text
